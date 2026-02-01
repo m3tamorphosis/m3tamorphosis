@@ -36,22 +36,25 @@ I work with **Python, SQL, EDA, and BI tools**, and I’m continuously learning 
 ---
 
 ## 🧰 Tech Stack
-
-### 🔹 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql" />
+  <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" style="margin-right: 10px;" />
+  <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" />
 </p>
 
 ### 🔹 Data Analysis & BI
 <p>
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau" />
+  <img src="https://img.icons8.com/?size=100&id=BQJc3mm8NGYs&format=png" style="margin-right: 10px;" />
+  <img src="https://img.icons8.com/?size=96&id=Ny0t2MYrJ70p&format=png" />
+  <img src="https://img.icons8.com/?size=96&id=y5utoW4FUM92&format=png" />
 </p>
 
 ### 🔹 Data Engineering & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,snowflake" />
+  <img src="https://img.icons8.com/?size=96&id=33039&format=png" /> 
+  <img src="https://cdn-icons-png.flaticon.com/128/8061/8061649.png" /> 
 </p>
 
+---
 ### 🔹 Tools & Concepts
 - Data Cleaning & Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -62,7 +65,7 @@ I work with **Python, SQL, EDA, and BI tools**, and I’m continuously learning 
 
 ---
 
-- ## 📂 Projects
+## 🗂 Projects
 
 - ☕ **Cafe Sales Data Cleaning (Python)**  
   Cleaned and preprocessed raw cafe sales data using pandas to prepare analysis-ready datasets.
