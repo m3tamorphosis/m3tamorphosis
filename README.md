@@ -36,23 +36,40 @@ I work with **Python, SQL, EDA, and BI tools**, and I’m continuously learning 
 ---
 
 ## 🧰 Tech Stack
+
+### 🔹 Programming and Statistics
+
 <p>
-  <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" style="margin-right: 10px;" />
-  <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png" />
+  <img src="https://cdn-icons-png.flaticon.com/128/2567/2567943.png"height="60" />
+  <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png"height="60" />
+  <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png"height="60" />
 </p>
 
-### 🔹 Data Analysis & BI
-<p>
-  <img src="https://img.icons8.com/?size=100&id=BQJc3mm8NGYs&format=png" style="margin-right: 10px;" />
-  <img src="https://img.icons8.com/?size=96&id=Ny0t2MYrJ70p&format=png" />
-  <img src="https://img.icons8.com/?size=96&id=y5utoW4FUM92&format=png" />
+### 🔹 Data Analysis & Visualization & EDA
+<p align="Left">
+  <img src="https://img.icons8.com/?size=100&id=BQJc3mm8NGYs&format=png" height="60"/>
+  <img src="https://img.icons8.com/?size=96&id=Ny0t2MYrJ70p&format=png" height="60"/>
+  <img src="https://img.icons8.com/?size=96&id=y5utoW4FUM92&format=png" height="60"/>
+  <img src="https://img.icons8.com/?size=160&id=1vW3iHleDPto&format=png" height="60"/>
 </p>
 
-### 🔹 Data Engineering & Cloud
+### 🔹 Machine Learning & Gen-Ai
 <p>
-  <img src="https://img.icons8.com/?size=96&id=33039&format=png" /> 
-  <img src="https://cdn-icons-png.flaticon.com/128/8061/8061649.png" /> 
+  <img src="https://img.icons8.com/?size=100&id=1570&format=png"height="60" /> 
+  <img src="https://img.icons8.com/?size=100&id=MTnnE7FNiELB&format=png"height="60" /> 
 </p>
+
+### 🔹 Data Engineering & ETL
+<p>
+  <img src="https://img.icons8.com/?size=160&id=X10esLaMcBb3&format=png"height="60" /> 
+  <img src="https://cdn-icons-png.flaticon.com/128/8061/8061649.png"height="60" /> 
+</p>
+
+### 🔹 Cloud & Development
+<p>
+  <img src="https://img.icons8.com/?size=96&id=33039&format=png"height="60" /> 
+<p>
+
 
 ---
 ### 🔹 Tools & Concepts
