@@ -35,40 +35,30 @@ I work with **Python, SQL, EDA, and BI tools**, and I’m continuously learning 
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Tech Stack
 
-### 🔹 Programming and Statistics
+### 👨‍💻 Programming & Data Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4CAF50?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<p>
-  <img src="https://cdn-icons-png.flaticon.com/128/2567/2567943.png"height="60" />
-  <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png"height="60" />
-  <img src="https://cdn-icons-png.flaticon.com/128/4248/4248443.png"height="60" />
-</p>
+---
 
-### 🔹 Data Analysis & Visualization & EDA
-<p align="Left">
-  <img src="https://img.icons8.com/?size=100&id=BQJc3mm8NGYs&format=png" height="60"/>
-  <img src="https://img.icons8.com/?size=96&id=Ny0t2MYrJ70p&format=png" height="60"/>
-  <img src="https://img.icons8.com/?size=96&id=y5utoW4FUM92&format=png" height="60"/>
-  <img src="https://img.icons8.com/?size=160&id=1vW3iHleDPto&format=png" height="60"/>
-</p>
+### 🗄️ Databases & Cloud
+![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Azure SQL Database](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Database](https://img.shields.io/badge/Azure_Database-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 🔹 Machine Learning & Gen-Ai
-<p>
-  <img src="https://img.icons8.com/?size=100&id=1570&format=png"height="60" /> 
-  <img src="https://img.icons8.com/?size=100&id=MTnnE7FNiELB&format=png"height="60" /> 
-</p>
+---
 
-### 🔹 Data Engineering & ETL
-<p>
-  <img src="https://img.icons8.com/?size=160&id=X10esLaMcBb3&format=png"height="60" /> 
-  <img src="https://cdn-icons-png.flaticon.com/128/8061/8061649.png"height="60" /> 
-</p>
+### 📊 Business Intelligence & Visualization
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🔹 Cloud & Development
-<p>
-  <img src="https://img.icons8.com/?size=96&id=33039&format=png"height="60" /> 
-<p>
 
 
 ---
