@@ -28,7 +28,7 @@ I work with **Python, SQL, EDA, BI tools, and cloud technologies**, and I’m co
 **Business Data Analytics Intern (OJT)**  
 📍 *Department of Budget and Management (DBM), Manila (Feb 2025 – May 2025)*  
 
-- Supported data-driven initiatives and financial reporting as part of the Business Data Analytics Team (BDAT)  
+- Supported data-driven initiatives and financial reporting as part of the Business Data Analytics Team (BDAL)  
 - Cleaned and transformed government financial data, including converting PDF reports into structured datasets  
 - Analyzed national budget and banking data to generate insights  
 - Built interactive Power BI dashboards for budget utilization, fund distribution, and KPIs  
