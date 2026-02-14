@@ -35,7 +35,7 @@ I work with **Python, SQL, EDA, BI tools, and cloud technologies**, and I’m co
 - Performed data validation and quality checks to ensure reporting accuracy
 
 **Call Center Agent iQor Philippines**  
-📍 *Account: 1-800-Flowers / Harry & David*  
+📍 *Account: 1-800-Flowers / Harry & David (Nov – Dec 2025)*  
 
 - ssisted customers in placing orders accurately via phone and email.
 - esolved order holds and payment-related concerns to ensure timely processing.
