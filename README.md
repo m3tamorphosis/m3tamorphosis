@@ -32,8 +32,15 @@ I work with **Python, SQL, EDA, BI tools, and cloud technologies**, and I’m co
 - Cleaned and transformed government financial data, including converting PDF reports into structured datasets  
 - Analyzed national budget and banking data to generate insights  
 - Built interactive Power BI dashboards for budget utilization, fund distribution, and KPIs  
-- Performed data validation and quality checks to ensure reporting accuracy  
+- Performed data validation and quality checks to ensure reporting accuracy
 
+**Call Center Agent iQor Philippines**  
+📍 *Account: 1-800-Flowers / Harry & David*  
+
+- ssisted customers in placing orders accurately via phone and email.
+- esolved order holds and payment-related concerns to ensure timely processing.
+- Provided email support for order updates, inquiries, and issue resolution.
+- Delivered excellent customer service while consistently meeting quality and productivity standards
 ---
 
 # 🚀 Tech Stack
