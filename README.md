@@ -1,7 +1,8 @@
 # Welcome! I'm Carl John D. Haro
 
-I'm a **Data Analyst & Aspiring Data Engineer** passionate about transforming raw data into actionable business insights.  
-I work with **Python, SQL, EDA, BI tools, and cloud technologies**, and I’m continuously learning cloud analytics and GenAI for modern data and engineering workflows.
+Data Analyst experienced in working with SQL, Excel, and Power BI to clean data, prepare reports, and build dashboards for monitoring performance and trends. Familiar with data preparation tasks including SQL transformations and basic ETL workflows using Python and cloud platforms. Able to translate raw datasets into clear insights that support decision-making.
+
+
 
 ---
 
