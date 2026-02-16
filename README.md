@@ -122,7 +122,7 @@ I work with **Python, SQL, EDA, BI tools, and cloud technologies**, and I’m co
 - 📧 Email: carldharo02@gmail.com  
 - 🌐 GitHub: [https://github.com/m3tamorphosis](https://github.com/m3tamorphosis)  
 - 📱 Phone: +63 961-083-4292  
-- 🌍 Portfolio: Coming soon  
+- 🌍 Portfolio: https://carljohnharo.vercel.app/
 
 ---
 
