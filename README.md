@@ -1,7 +1,6 @@
 # Welcome! I'm Carl John D. Haro
 
-Data Analyst experienced in working with SQL, Excel, and Power BI to clean data, prepare reports, and build dashboards for monitoring performance and trends. Familiar with data preparation tasks including SQL transformations and basic ETL workflows using Python and cloud platforms. Able to translate raw datasets into clear insights that support decision-making.
-
+Data Analyst experienced in transforming raw data into structured datasets and developing ETL workflows using SQL and Python. Familiar with AWS and Azure data processing and skilled in data cleaning, validation, and reporting to support business decisions.
 
 
 ---
@@ -123,7 +122,7 @@ Data Analyst experienced in working with SQL, Excel, and Power BI to clean data,
 - 📧 Email: carldharo02@gmail.com  
 - 🌐 GitHub: [https://github.com/m3tamorphosis](https://github.com/m3tamorphosis)  
 - 📱 Phone: +63 961-083-4292  
-- 🌍 Portfolio: https://carljohnharo.vercel.app/
+- 🌍 Portfolio: haro-porfolio.vercel.app
 
 ---
 
