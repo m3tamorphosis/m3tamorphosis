@@ -122,7 +122,7 @@ Data Analyst experienced in transforming raw data into structured datasets and d
 - 📧 Email: carldharo02@gmail.com  
 - 🌐 GitHub: [https://github.com/m3tamorphosis](https://github.com/m3tamorphosis)  
 - 📱 Phone: +63 961-083-4292  
-- 🌍 Portfolio: haro-porfolio.vercel.app
+- 🌍 Portfolio: https://haro-porfolio.vercel.app/
 
 ---
 
