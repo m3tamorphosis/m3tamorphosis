@@ -123,7 +123,6 @@ Data Analyst experienced in transforming raw data into structured datasets and d
 - 🌐 GitHub: [https://github.com/m3tamorphosis](https://github.com/m3tamorphosis)  
 - 📱 Phone: +63 961-083-4292  
 - 🌍 Portfolio: https://haro-porfolio.vercel.app/
-
 ---
 
 ⭐ *Turning data into insights, one analysis at a time*
