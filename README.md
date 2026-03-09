@@ -1,128 +1,122 @@
-# Welcome! I'm Carl John D. Haro
+# 👋 Hi, I'm Carl John D. Haro
 
-Data Analyst experienced in transforming raw data into structured datasets and developing ETL workflows using SQL and Python. Familiar with AWS and Azure data processing and skilled in data cleaning, validation, and reporting to support business decisions.
+Data Analyst and Web Developer passionate about transforming raw data into actionable insights and building data-driven applications.
 
+Skilled in **SQL, Python, ETL pipelines, and analytics dashboards**, and experienced in developing **data-driven web applications using React and Next.js**. I enjoy building tools that combine **data analytics, AI, and modern web technologies**.
 
 ---
 
 ## 🚀 About Me
 
-- 📊 Data Analyst with hands-on experience in **data cleaning, preprocessing, analysis, and visualization**  
-- 🧠 Proficient in applying advanced statistical methods, exploratory data analysis (EDA), feature engineering, and data engineering techniques to derive actionable insights. 
-- 📈 Experienced in analyzing **sales, insurance, and transactional datasets, National Budget, Banking data**  
-- ☁️ Currently learning **ETL pipelines, Snowflake, and AWS**  
-- 🤖 Exploring **GenAI applications in data analysis and automation**  
-- 📚 Learning in public and consistently improving my analytical and engineering skills  
+- 📊 Data Analyst experienced in **data cleaning, transformation, analysis, and visualization**
+- 🧠 Skilled in **Exploratory Data Analysis (EDA), feature engineering, and data modeling**
+- 📈 Experienced in analyzing **sales, insurance, financial, and government budget datasets**
+- ☁️ Working with **ETL pipelines, Snowflake, AWS, and cloud data platforms**
+- 🌐 Building **data-driven web applications using React and Next.js**
+- 🤖 Exploring **Generative AI, RAG systems, and AI-powered analytics tools**
+- 📚 Continuously learning and building projects in **data analytics and web development**
 
 ---
 
-## 🎓 Education
+# 🛠 Tech Stack
 
-**Bachelor of Science in Computer Science**  
-📍 *Central Philippine University, Iloilo City, Philippines (2021–2025)*
-
----
-
-## 🏢 Experience
-
-**Business Data Analytics Intern (OJT)**  
-📍 *Department of Budget and Management (DBM), Manila (Feb 2025 – May 2025)*  
-
-- Supported data-driven initiatives and financial reporting as part of the Business Data Analytics Team (BDAL)  
-- Cleaned and transformed government financial data, including converting PDF reports into structured datasets  
-- Analyzed national budget and banking data to generate insights  
-- Built interactive Power BI dashboards for budget utilization, fund distribution, and KPIs  
-- Performed data validation and quality checks to ensure reporting accuracy
-
-**Call Center Agent iQor Philippines**  
-📍 *Account: 1-800-Flowers / Harry & David (Nov – Dec 2025)*  
-
-- ssisted customers in placing orders accurately via phone and email.
-- esolved order holds and payment-related concerns to ensure timely processing.
-- Provided email support for order updates, inquiries, and issue resolution.
-- Delivered excellent customer service while consistently meeting quality and productivity standards
----
-
-# 🚀 Tech Stack
-
-## 👨‍💻 Programming & Data Analysis
+## 👨‍💻 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Exploratory Data Analysis](https://img.shields.io/badge/EDA-FF6F00?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-4CAF50?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-## 🗄️ Databases & Cloud
-![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Azure SQL Database](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+---
+
+## 📊 Data Analytics & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-1C1C1C?style=for-the-badge)
+
+---
+
+## 🗄 Databases & Cloud
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-## 📊 Business Intelligence & Visualization
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-1C1C1C?style=for-the-badge)
+---
 
-## 🎮 Development & App Tools
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-## 🔹 Tools & Concepts
-- Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Feature Engineering  
-- ETL Pipelines & Data Engineering  
-- Statistical Analysis  
-- Data Storytelling & Visualization  
-
+## 🌐 Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 🗂 Projects
-
-- ☕ **Cafe Sales Data Cleaning (Python)**  
-  Cleaned and preprocessed raw cafe sales data using pandas to prepare analysis-ready datasets.
-
-- 📊 **Sales Data Analysis**  
-  Analyzed sales performance, profit trends, discount effectiveness, and customer behavior using exploratory data analysis.
-
-- 🛡 **Insurance Data Analysis (SQL Server & Power BI)**  
-  Built an interactive dashboard to analyze premiums, claims, coverage, and policy activity for data-driven decision-making.
-
-- 🌱 **Climate & Agriculture Analytics (Cloud Pipeline)**  
-  Built a cloud-based analytics pipeline using AWS, Snowflake, and Power BI Fabric for ingestion, cleaning, transformation, and dashboard reporting.
-
-- 💸 **Loan Default & Financial Risk Analytics (Power BI Fabric)**  
-  Developed end-to-end dashboards integrating SQL Server/MySQL data with advanced DAX measures for financial insights.
-
-- 🏪 **Cafe Sales Performance Dashboard (Python & Power BI)**  
-  Interactive dashboard analyzing revenue, orders, top-selling items, and customer behavior.
-
-- 🎮 **Danger Zone – First-Person Disaster Simulation Game (Thesis Project)**  
-  Integrated Unity with Firebase Authentication and Realtime Database for authentication and real-time data syncing, while assisting in UI/UX and gameplay system design.  
-  🔗 Demo: [https://dangerzone.vercel.app/](https://dangerzone.vercel.app/)
+## 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37626)
 
 ---
 
-## 🚧 Currently Learning
+# 💼 Experience
 
-- Advanced SQL for analytics  
-- Power BI & Tableau best practices  
-- Snowflake & cloud data warehousing  
-- AWS analytics services  
-- GenAI for data insights and automation  
+### Business Data Analytics Intern  
+**Department of Budget and Management (DBM)**  
+Feb 2025 – May 2025
+
+- Cleaned and transformed government financial datasets including converting PDF reports into structured datasets
+- Analyzed national budget and banking data to generate insights
+- Developed **Power BI dashboards** for budget utilization and KPI monitoring
+- Performed data validation and quality checks to ensure reporting accuracy
+
+### Customer Service Representative (Contract)  
+**iQor Philippines — 1-800-Flowers / Harry & David**  
+Nov 2025 – Dec 2025
+
+- Assisted customers in placing and managing orders via phone and email
+- Resolved payment issues and order holds to ensure timely processing
+- Delivered high-quality customer service while meeting productivity targets
 
 ---
 
-## 🤝 Connect With Me
+# 📊 Featured Projects
 
-- 💼 LinkedIn: [https://www.linkedin.com/in/carl-john-haro-02a029350/](https://www.linkedin.com/in/carl-john-haro-02a029350/)  
-- 📧 Email: carldharo02@gmail.com  
-- 🌐 GitHub: [https://github.com/m3tamorphosis](https://github.com/m3tamorphosis)  
-- 📱 Phone: +63 961-083-4292  
-- 🌍 Portfolio: https://haro-porfolio.vercel.app/
+### Loan Default & Financial Risk Analytics
+Power BI Fabric dashboard analyzing borrower demographics, credit behavior, and default risk trends.
+
+### Climate & Agriculture Cloud Analytics Pipeline
+Built an **AWS + Snowflake pipeline** for data ingestion, transformation, and analytics reporting.
+
+### Insurance Analytics Dashboard
+Developed a **SQL Server + Power BI dashboard** for analyzing premiums, claims, and policy performance.
+
+### Cafe Sales Performance Dashboard
+Analyzed revenue trends and customer behavior using **Python and Power BI**.
+
+### Danger Zone – Disaster Simulation Game (Thesis)
+Unity-based disaster simulation game with Firebase backend for disaster risk education.  
+🔗 https://dangerzone.vercel.app/
+
 ---
 
-⭐ *Turning data into insights, one analysis at a time*
+# 📚 Currently Learning
+
+- Advanced SQL for analytics
+- Snowflake & cloud data warehousing
+- AWS analytics services
+- Power BI advanced modeling
+- Generative AI for data automation
+
+---
+
+# 🤝 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/carl-john-haro-02a029350/
+
+🌐 Portfolio  
+https://haro-porfolio.vercel.app/
+
+📧 Email  
+carldharo02@gmail.com
+
+⭐ Turning data into insights and building intelligent applications.
