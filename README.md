@@ -78,23 +78,34 @@ Nov 2025 – Dec 2025
 
 ---
 
-# 📊 Featured Projects
+# 📊 Projects
 
-### Loan Default & Financial Risk Analytics
-Power BI Fabric dashboard analyzing borrower demographics, credit behavior, and default risk trends.
+## 🚨 Danger Zone – Disaster Simulation Game (Thesis Project)
 
-### Climate & Agriculture Cloud Analytics Pipeline
-Built an **AWS + Snowflake pipeline** for data ingestion, transformation, and analytics reporting.
+- Developed an educational first-person disaster response simulation game to support Disaster Risk Reduction (DRR) training.
+- Designed interactive earthquake, fire, and flood scenarios with real-time data synchronization using a cloud backend.
 
-### Insurance Analytics Dashboard
-Developed a **SQL Server + Power BI dashboard** for analyzing premiums, claims, and policy performance.
+---
 
-### Cafe Sales Performance Dashboard
-Analyzed revenue trends and customer behavior using **Python and Power BI**.
+## 🤖 InsightVault Lite – AI-Powered Data Analytics Web Application (Live)
 
-### Danger Zone – Disaster Simulation Game (Thesis)
-Unity-based disaster simulation game with Firebase backend for disaster risk education.  
-🔗 https://dangerzone.vercel.app/
+- Built a data analytics web application that allows users to upload and analyze CSV and PDF datasets through a web interface.
+- Implemented AI-powered querying using RAG workflows and embeddings to generate insights and interactive data visualizations.
+
+---
+
+## ☁️ Cloud Data Pipeline (AWS + Snowflake)
+
+- Developed an ETL pipeline to ingest, clean, and transform raw datasets into analytics-ready tables.
+- Processed and stored datasets in a cloud data warehouse to support reporting and data analysis.
+
+---
+
+## 📈 Loan Default & Financial Risk Analytics Dashboard
+
+- Developed an end-to-end financial risk analytics dashboard to analyze borrower demographics, credit behavior, and loan default trends.
+- Implemented data modeling and analytical measures to track KPIs such as default rate, loan distribution, income patterns, and credit score segmentation.
+• Implemented data modeling and advanced analytical measures to track KPIs such as default rate, loan distribution, income patterns, and credit score segmentation.
 
 ---
 
