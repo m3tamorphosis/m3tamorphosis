@@ -70,7 +70,7 @@ Feb 2025 – May 2025
 
 ### Customer Service Representative (Contract)  
 **iQor Philippines — 1-800-Flowers / Harry & David**  
-Nov 2025 – Dec 2025
+Oct 2025 – Jan 2026
 
 - Assisted customers in placing and managing orders via phone and email
 - Resolved payment issues and order holds to ensure timely processing
