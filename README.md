@@ -122,12 +122,12 @@ Oct 2025 – Jan 2026
 # 🤝 Connect With Me
 
 💼 LinkedIn  
-https://www.linkedin.com/in/carl-john-haro-02a029350/
+https://www.linkedin.com/in/carl-john-haro-923a9a3bb
 
 🌐 Portfolio  
 https://haro-porfolio.vercel.app/
 
 📧 Email  
-carldharo02@gmail.com
+carljohnharo02@gmail.com
 
 ⭐ Turning data into insights and building intelligent applications.
