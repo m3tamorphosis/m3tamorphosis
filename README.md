@@ -125,7 +125,7 @@ Oct 2025 – Jan 2026
 https://www.linkedin.com/in/carl-john-haro-923a9a3bb
 
 🌐 Portfolio  
-https://haro-porfolio.vercel.app/
+https://haroportfolio.vercel.app/
 
 📧 Email  
 carljohnharo02@gmail.com
